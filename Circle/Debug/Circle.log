@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\SP4-IVC\Desktop\Circle\Circle\Source.cpp(89,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\SP4-IVC\Desktop\Circle\Circle\Source.cpp(90,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\SP4-IVC\Desktop\Circle\Circle\Source.cpp(62,7): warning C4101: rect: неиспользованная локальная переменная
+  Circle.vcxproj -> C:\Users\SP4-IVC\Desktop\Circle\Debug\Circle.exe
